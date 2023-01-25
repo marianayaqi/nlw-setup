@@ -1,10 +1,10 @@
 # nlw-setup 🦾🚀🖖
 
-<p><li> Projeto "EM ANDAMENTO" apresentado pelo MAYK BRITO, vulgo "MAYKÃO"! e desenvolvido pelo mestre DIEGÃO rs, para acompanhar rotina e hábitos diários usando tecnologias de programação web com inputs e uma interface de design moderno e fácil uso!
+<p><li> Projeto criado junto ao time da Rocketseat, apresentado pelo nosso amigo do sorriso simpatico Maik Brito!!!
 
-##  😎 Technologies
+## 💾Technologies
 
-<li> HTML
+<li> HTML 
 <li> CSS
 <li> JavaScript
 <li> Git and GitHub
