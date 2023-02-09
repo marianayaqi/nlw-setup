@@ -1,4 +1,4 @@
-# nlw-setup 🦾🚀🖖
+# nlw-setup 🤓
 
 <p><li> Projeto criado junto ao time da Rocketseat, apresentado pelo nosso amigo do sorriso simpatico Maik Brito!!!
 
