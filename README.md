@@ -9,7 +9,7 @@
 <li> JavaScript
 <li> Git and GitHub
 
-<p><a target="_blank" href="https://mariantune.github.io/nlw-setup/">Clique aqui</a> para conferir o resultado final.🚀
+<p><a target="_blank" href="https://marianayaqi.github.io/nlw-setup/">Clique aqui</a> para conferir o resultado final.🚀
 
 <h3> Abaixo imagens do projeto final do "Habits"! 🧑‍🚀
 <br>
